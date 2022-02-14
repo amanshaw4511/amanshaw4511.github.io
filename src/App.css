@@ -1,0 +1,21 @@
+header {
+  /* background-color: #; */
+}
+
+main {
+  /* background-color : #4D3B69; */
+}
+
+footer {
+  /* background-color : #312643; */
+}
+
+#main-content {
+  min-height : calc(100vh);
+  margin-top: 60px;
+}
+
+#footer-content {
+  text-align : center;
+}
+
